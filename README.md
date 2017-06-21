@@ -24,10 +24,12 @@
 - IBM [Accessibility Handbook](https://accessibility-handbook.mybluemix.net/design/a11y-handbook/) - “Inclusive design is good business.”
 - [Inclusive Design at Microsoft](https://www.microsoft.com/en-us/design/inclusive)
 - Material Design [Accessibility](https://material.io/guidelines/usability/accessibility.html)
+http://a11y-style-guide.com/style-guide/
 
 ### Checklists
 
 - The Paciello Group [Web Components punch list](https://www.paciellogroup.com/blog/2014/09/web-components-punch-list/)
+- Vox Media [Accessibility Guidelines](http://accessibility.voxmedia.com/)
 
 ### Standards
 
@@ -44,6 +46,7 @@
 - [a11y.js](https://allyjs.io/)
 - https://www.youtube.com/watch?v=jC_7NnRdYb0&feature=youtu.be
 - [react-axe](https://github.com/dylanb/react-axe)
+- Pa11y
 
 ## Books
 
